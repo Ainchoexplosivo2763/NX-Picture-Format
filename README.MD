@@ -100,7 +100,7 @@ Best for:
 DATA RULES
 ------------------------------------------------------------
 
-- Pixels are stored left → right, top → bottom
+- Pixels are stored left -> right, top -> bottom
 - Each pixel is separated by ";"
 - Each row is separated by a newline
 - Values are hex (RGB/RGBA) or index (INDEXED)
